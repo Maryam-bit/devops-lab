@@ -16,3 +16,5 @@ chmod +x server-stats.sh
 ```bash
 ./server-stats.sh
 ```
+
+A [project](https://roadmap.sh/projects/server-stats) from Roadmap.sh
